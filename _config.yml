@@ -41,18 +41,19 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "wentaoyao2023@u.northwestern.com"
-#   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: harrygyao
+  instagram: harrygyao
+  linkedin: wentao-yao-6893261b5
+  email: "wentaoyao2023@u.northwestern.com"
 #   patreon: 
 #   youtube:
 #   medium: 
 #   reddit: 
-  linkedin: wentao-yao-6893261b5
+#   rss: true  # remove this line if you don't want to show an RSS link at the bottom 
 #   xing: 
 #   stackoverflow:
 #   snapchat: 
-  instagram: harrygyao
+
 #   spotify: 
 #   telephone: +14159998888
 #   steam: 

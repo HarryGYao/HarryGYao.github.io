@@ -16,11 +16,11 @@ author: Wentao Yao
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "index"
   About Me: "aboutme"
   Project:
     - CPDP Database: "https://nu-dss-the-dapper-squirrels.github.io/The-Dapper-Squirrels/"
     - VEX 2016:  "https://harrygyao.github.io/VEX2016/"
-  Home: "index"
   resume: "resume"
   
 
